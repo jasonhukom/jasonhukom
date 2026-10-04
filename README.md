@@ -21,7 +21,6 @@ I love making things, learning, and probably make more projects than I finish �
 → Building websites & apps
 → Making content
 → Experimenting with AI
-→ Minecraft projects
 → Trying not to create 12 projects at once
 ```
 
@@ -49,7 +48,6 @@ I love making things, learning, and probably make more projects than I finish �
 
 ### 🕹️ Games
 
-* Minecraft
 * Game / Project Name
 * Game / Project Name
 
