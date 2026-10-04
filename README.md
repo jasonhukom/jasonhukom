@@ -11,7 +11,7 @@ I love making things, learning, and probably make more projects than I finish ü
 
 ## üåê Find Me
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCb-CgsU-L3p6jACeHOYi2KA?logo=youtube&logoColor=red&style=for-the-badge)]([YOUR_YOUTUBE_LINK](https://youtube.com/@jason_hukom?si=sP6oCBr_M_NFe-PG)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]()
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCb-CgsU-L3p6jACeHOYi2KA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@jason_hukom) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]()
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](YOUR_TIKTOK_LINK)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X_LINK)
 [![CodeDex](https://img.shields.io/badge/CodeDex-%23000000?style=for-the-badge\&logo=codecademy\&logoColor=white)](YOUR_CODEDEX_LINK)
