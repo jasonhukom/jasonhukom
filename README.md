@@ -17,6 +17,8 @@ I love making things, learning, and probably make more projects than I finish ðŸ
 [![CodeDex](https://img.shields.io/badge/CodeDex-%23000000?style=for-the-badge\&logo=codecademy\&logoColor=white)](YOUR_CODEDEX_LINK)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](YOUR_PINTEREST_LINK)
 
+https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-channel-badge-pearl.vercel.app%2Fapi%2Fsubscriber
+
 ---
 
 ## ðŸ’» What I'm Doing
