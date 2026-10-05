@@ -10,46 +10,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhukom\&layout=compact\&hide_border=true)
 
----
-
-## 🏆 My Levels
-
-<!-- PUT YOUR LEVEL / PROGRESS / ACHIEVEMENT SYSTEM HERE -->
-
-```text
-Coding        ███████░░░  70%
-Web Dev       ██████░░░░  60%
-Python        █████░░░░░  50%
-Java          ████░░░░░░  40%
-Minecraft     █████████░  90%
-Content       ██████░░░░  60%
-```
-
----
-
-## 🚀 Stuff I Use
-
-```text
-Languages
-Python • Java • JavaScript • HTML • CSS
-
-Tools
-Git • GitHub • Linux • Docker
-
-Things I'm Interested In
-AI • Web Development • Minecraft • Game Development
-```
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace these with your actual repositories -->
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=jasonhukom\&repo=REPOSITORY_1\&hide_border=true)](https://github.com/jasonhukom/Bible-Plan)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=jasonhukom\&repo=REPOSITORY_2\&hide_border=true)](https://github.com/jasonhukom/REPOSITORY_2)
-
 ---
 
 ⭐️ From yours truly [jasonhukom](https://github.com/jasonhukom)
