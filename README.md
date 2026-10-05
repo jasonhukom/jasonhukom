@@ -46,29 +46,10 @@ AI • Web Development • Minecraft • Game Development
 
 <!-- Replace these with your actual repositories -->
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=jasonhukom\&repo=REPOSITORY_1\&hide_border=true)](https://github.com/jasonhukom/REPOSITORY_1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=jasonhukom\&repo=REPOSITORY_1\&hide_border=true)](https://github.com/jasonhukom/Bible-Plan)
 
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=jasonhukom\&repo=REPOSITORY_2\&hide_border=true)](https://github.com/jasonhukom/REPOSITORY_2)
 
----
+---
 
-## 🧠 Currently Learning
-
-* Something new
-* Something harder
-* Something completely unnecessary but interesting
-
----
-
-## ✨
-
-> “Build things. Break things. Learn things. Repeat.”
-
----
-
-<p align="center">
-  <b>Thanks for stopping by.</b>
-</p>
-
-
-⭐️ From [jasonhukom](https://github.com/jasonhukom)
+⭐️ From yours truly [jasonhukom](https://github.com/jasonhukom)
