@@ -2,13 +2,5 @@
 
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=jasonhukom&rank_icon=github&hide_title=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api?username=jasonhukom&rank_icon=github&hide_title=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats">
-  </a>
+  <img src="github-user-contribution.svg" alt="GitHub Stats">  
 </p>
-
-<a href="https://github.com/jasonhukom/jasonhukom/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jasonhukom/jasonhukom" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
