@@ -11,4 +11,4 @@
   <a href="https://id.pinterest.com/jason_hukom/"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
 </p>
 
-<p align="center"><sub>EnJoY</sub></p>
+<p align="center"><sub>jasonhukom</sub></p>
