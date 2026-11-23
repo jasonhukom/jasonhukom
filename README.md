@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasonhukom/jasonhukom/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
@@ -12,4 +13,4 @@
   <a href="https://ko-fi.com/M8R22ADGYR"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a> 
 </p>
 
-<p align="center"><sub><a href='https://www.jasonhukom.my.id' style="text-decoration: none; color: inherit;">jasonhukom</a></sub></p>
+<p align="center"><sub><a href='https://www.jasonhukom.my.id'>jasonhukom</a></sub></p>
