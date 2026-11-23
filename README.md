@@ -10,7 +10,10 @@
   <a href="https://x.com/jasonhukom"><img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
   <a href="https://www.codedex.io/@jasonhukom"><img src="https://img.shields.io/badge/CodeDex-%23000000?style=for-the-badge&logo=codecademy&logoColor=white" alt="CodeDex"></a>
   <a href="https://id.pinterest.com/jason_hukom/"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://ko-fi.com/M8R22ADGYR"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a> 
 </p>
 
-<p align="center"><sub><a href='https://www.jasonhukom.my.id'>jasonhukom</a></sub></p>
+<p align="center">
+  <a href="https://ko-fi.com/M8R22ADGYR"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a>
+</p>
+
+<p align="center"><sub><a href='https://www.jasonhukom.my.id' style='color: inherit; text-decoration: none;'>jasonhukom</a></sub></p>
